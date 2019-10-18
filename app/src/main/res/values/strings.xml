@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">StreetView Demo</string>
+    <string name="action_about">About</string>
+    <string name="intro_text">Welcome to the Streetview Visualizer</string>
+    <string name="intro_description">Enter a value for Latitude and Longitude or select one of the provided Locations, then press the button to open the 360 degrees view</string>
+    <string name="label_field_required">Required field</string>
 </resources>
